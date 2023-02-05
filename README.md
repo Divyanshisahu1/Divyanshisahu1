@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshisahu1</h1>
 <h3 align="center">A passionate full Stack Web developer from India. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-- 👯 I’m looking to collaborate on **on exciting projects which helps us to make our lives more efficient**
+- 👯 I’m looking to collaborate on ** exciting projects which helps us to make our lives more efficient**
 
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB.**
 
