@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyanshisahu1</h1>
+<h1 align="center">Hi 👋, I'm Divyanshi Sahu</h1>
 <h3 align="center">A passionate full Stack Web developer from India. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👯 I’m looking to collaborate on ** exciting projects which helps us to make our lives more efficient**
