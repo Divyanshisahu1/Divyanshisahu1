@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshi Sahu</h1>
 <h3 align="center">A passionate full Stack Web developer from India. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/userupload/3627433/file/original-8bcba6e6d3963b1c22e47f9ed81d308e.png?compress=1&resize=1200x900">
 - 👯 I’m looking to collaborate on ** exciting projects which helps us to make our lives more efficient**
 
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB.**
