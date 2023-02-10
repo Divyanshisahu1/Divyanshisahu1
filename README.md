@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LVAWFHJThyXr1-eSqPjMHO7RyWu4gLcs/view?usp=share_link](https://drive.google.com/file/d/1LVAWFHJThyXr1-eSqPjMHO7RyWu4gLcs/view?usp=share_link)
 
-- ⚡ Fact about me **I love helping**
+- ⚡ Fact about me **I love Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
